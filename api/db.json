@@ -1,0 +1,39 @@
+{
+  "students": [
+    {
+      "id": "2b",
+      "name": "shanto",
+      "roll": "022",
+      "email": "shantoiiii362@gmail.com",
+      "photo": "https://organicagroindia.com/wp-content/uploads/2020/10/team-member-8.jpg"
+    },
+    {
+      "id": "3b",
+      "name": "Pobitro kumar",
+      "roll": "03",
+      "email": "pobitro362@gmail.com",
+      "photo": "https://billey-4437.kxcdn.com/wp-content/uploads/2019/08/team-member-01.jpg"
+    },
+    {
+      "id": "2ad1",
+      "name": "rahim",
+      "email": "adminadv@gmail.com",
+      "roll": "44",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJy4s3Bmm3kyei2CWw6ZZ_8HAmpQqBhyWp8cXLMN0S1A&s"
+    },
+    {
+      "id": "ba09",
+      "name": "pobitro",
+      "email": "developergoutam53@gmail.com",
+      "roll": "666",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaXQoo21z972uS-JHDFnD7PDQC7gJocS8U32FugISogE6JnvceTKmlYE9FMdalmbbwkbo&usqp=CAU"
+    },
+    {
+      "id": "a850",
+      "name": "sdhgfxhjdf",
+      "email": "goutamr362@gmail.com",
+      "roll": "55",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxfq3dneguiF8RGj4tlXJ7jIlBy8IgUcE03dT8hdyeufGA5rH98fiNEJVTjCwdhb3aHfk&usqp=CAU"
+    }
+  ]
+}
